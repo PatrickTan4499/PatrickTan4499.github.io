@@ -1,0 +1,66 @@
+body{
+    background: beige;
+    font-family: Helvetica, sans-serif;
+
+  }
+
+  h2{
+    color: black;
+    font-size: 32px;
+    margin: 0;
+  }
+
+  .hometown-header{
+
+  }
+
+  #profile-photo{
+    border-radius: 15%;
+    right: 50%;
+    margin-left: -120px;
+  }
+
+  nav a {
+    text-decoration: none;
+  }
+
+  img{
+    border-radius: 50%;
+  }
+
+  h1, h2{
+    font-weight: bold;
+  }
+
+  header{
+    border-bottom: 1px solid blue;
+    background: white;
+    padding: 20px;
+
+    width: 100%;
+  }
+
+  nav{
+
+  }
+  #vitals{
+color: red;
+  }
+
+  #lists{
+
+  }
+
+  section{
+    background: white;
+    padding: 16px;
+    margin: 16px;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px gray;
+  }
+
+  a{
+    display: block;
+    transition: transform 1s;
+  }
